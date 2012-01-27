@@ -1,0 +1,4 @@
+This is a custom user profile demo.
+
+Replace "myprofilefield" with name of your plugin and copy folder under moodle/user/profile/field.
+Modify functions as per your requirement and add this field to user profile http://docs.moodle.org/22/en/User_profile_fields
